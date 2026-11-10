@@ -7,6 +7,7 @@ Product lead working on trust and relevance in a global marketplace. I've spent 
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [BumpAlong](https://github.com/Yutika-agarwal/BumpAlong) | Neighbors give and get pregnancy, postpartum and baby items for free, with a fair claim lottery, a points system and baby-gear safety checks | TypeScript, Fastify |
+| [Chief of Staff for PM](https://github.com/Yutika-agarwal/COS_PM) | A self-hosted AI chief of staff that reads your Slack, email, meetings, docs and tickets through Claude Code and gives you one structured briefing every few hours | Python |
 | [Mi Casa](https://github.com/Yutika-agarwal/mi-casa) · [live demo](https://yutika-agarwal.github.io/mi-casa/) | A household hub for two busy parents: who's doing what this week, whether the load is fair, and what each kid needs next | JavaScript |
 | [Ask for a Gift](https://github.com/Yutika-agarwal/ask-for-a-gift) | Describe who a gift is for in plain words and get ranked ideas with a reason for each. Includes an eval of four search approaches | JavaScript |
 | [kirana](https://github.com/Yutika-agarwal/kirana) | A shopping agent that reorders from your own purchase history and waits for your approval before anything is bought | Python |
